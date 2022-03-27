@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eb480a5d-dabe-ad3b-474d-f795cc528721
 resourcetype: Document
 title: thresofdevbronot.pdf
 uid: b69eb2b8-54da-7489-ed32-cb409444587b

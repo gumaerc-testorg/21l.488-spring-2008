@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eb480a5d-dabe-ad3b-474d-f795cc528721
 resourcetype: Document
 title: notes_on_realism.pdf
 uid: 4add8dd1-0c9c-6e9d-12cf-f33305cd6115

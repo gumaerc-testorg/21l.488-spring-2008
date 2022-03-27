@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 3d03cde3-902d-2a6e-64f6-18c405263b42
 resourcetype: Document
 title: gdtoclosereadng.pdf
 uid: fdd069d2-a489-87f3-6981-cfded5d49945

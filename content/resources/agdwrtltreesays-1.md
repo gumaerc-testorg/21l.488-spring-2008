@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb5468cb-432c-ba9b-1149-97d874d1f8d3
 resourcetype: Document
 title: agdwrtltreesays.pdf
 uid: 7d0d340a-67e8-26fe-1773-b8d1c78a84f0

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 3d03cde3-902d-2a6e-64f6-18c405263b42
 resourcetype: Document
 title: 21l488_trmconorg.pdf
 uid: 2066260a-c453-02ab-5103-ff5df02f870a

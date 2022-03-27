@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eb480a5d-dabe-ad3b-474d-f795cc528721
 resourcetype: Document
 title: int_to_pstcolnsm.pdf
 uid: 8a4c8394-3286-0207-e861-fef46b5dacaa

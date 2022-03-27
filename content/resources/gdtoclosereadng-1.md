@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a9632f63-b1c4-3a57-2085-d0871cc5633f
 resourcetype: Document
 title: gdtoclosereadng.pdf
 uid: 1ee3c3a3-b040-2e8b-0423-013157e6e3e1

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb5468cb-432c-ba9b-1149-97d874d1f8d3
 resourcetype: Document
 title: ntsonessayrevisn.pdf
 uid: 4b63fa9b-eb79-fb96-9a18-d0821426f912

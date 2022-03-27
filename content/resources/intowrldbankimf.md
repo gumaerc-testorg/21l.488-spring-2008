@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eb480a5d-dabe-ad3b-474d-f795cc528721
 resourcetype: Document
 title: intowrldbankimf.pdf
 uid: f3d4c102-b5a4-7603-c3cb-d5dbef49de4c
