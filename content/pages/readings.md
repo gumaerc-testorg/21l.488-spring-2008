@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on required texts, suggested additional
+  reading, and the schedule of readings by lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -22,7 +24,7 @@ Fielding, Helen. _Cause Celeb_. New York, NY: Penguin, 2002. ISBN: 9780670891955
 
 Mistry, Rohinton. _A Fine Balance_. New York, NY: Knopf, 1996. ISBN: 9780679446088.
 
-Guide to Close Reading ([PDF]({{< baseurl >}}/resources/gdtoclosereadng-1))
+Guide to Close Reading ({{% resource_link 1ee3c3a3-b040-2e8b-0423-013157e6e3e1 "PDF" %}})
 
 Suggested Additional Reading
 ----------------------------
@@ -284,7 +286,7 @@ Grove, Noel, and Stevel Raymer. "The Caribbean: Sun, Sea and Seething." _Nationa
 
 Swerdlow, Joel. "Global Culture." _National Geographic_ 196 (August 1999): 2-33.
 
-Hines-Smith, Leone M. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Jamaica Trade Point Story: From Stress To Success." (PDF)](http://unpan1.un.org/intradoc/groups/public/documents/Other/UNPAN022139.pdf)
+Hines-Smith, Leone M. ["The Jamaica Trade Point Story: From Stress To Success." (PDF)](http://unpan1.un.org/intradoc/groups/public/documents/Other/UNPAN022139.pdf)
 
 
 {{< tdclose >}}

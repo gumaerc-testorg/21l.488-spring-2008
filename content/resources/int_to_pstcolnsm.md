@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with an introduction to postcolonialism.
-file: /media/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/8a4c839432860207e861fef46b5dacaa_int_to_pstcolnsm.pdf
+file: /courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/8a4c839432860207e861fef46b5dacaa_int_to_pstcolnsm.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: int_to_pstcolnsm.pdf
 uid: 8a4c8394-3286-0207-e861-fef46b5dacaa
 ---
+Lecture notes with an introduction to postcolonialism.
+

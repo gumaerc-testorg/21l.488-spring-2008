@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  about required texts, assignments, attendance and plagiarism policies, useful references,
+  and the schedule of lecture topics and key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -106,13 +109,13 @@ Come to class having read the assigned material carefully, and prepared to liste
 Useful References
 -----------------
 
-Prof. Brouillette's Essay-marking Code ([PDF]({{< baseurl >}}/resources/marking_code))
+Prof. Brouillette's Essay-marking Code ({{% resource_link c25a5698-bfbf-de22-fbbe-857c72d55389 "PDF" %}})
 
-Key Terms, Concepts, and Organizations ([PDF]({{< baseurl >}}/resources/21l488_trmconorg))
+Key Terms, Concepts, and Organizations ({{% resource_link 2066260a-c453-02ab-5103-ff5df02f870a "PDF" %}})
 
-Guide to Close Reading ([PDF]({{< baseurl >}}/resources/gdtoclosereadng))
+Guide to Close Reading ({{% resource_link fdd069d2-a489-87f3-6981-cfded5d49945 "PDF" %}})
 
-Guide to Writing Literature Essays ([PDF]({{< baseurl >}}/resources/agdwrtltreesays))
+Guide to Writing Literature Essays ({{% resource_link b6adc7db-531f-7870-68e5-e69a9fc1cd7a "PDF" %}})
 
 Calendar
 --------
