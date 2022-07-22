@@ -5,6 +5,7 @@ file: /courses/21l-488-contemporary-literature-literature-development-and-human-
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: gdtoclosereadng.pdf
 uid: 1ee3c3a3-b040-2e8b-0423-013157e6e3e1
 ---
 Guidelines to close reading for the course.
-

@@ -5,6 +5,7 @@ file: /courses/21l-488-contemporary-literature-literature-development-and-human-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: essay_1.pdf
 uid: 0d1255d4-7288-d4b5-d3d0-654a035281fd
 ---
 Guidelines for writing the first essay assignment for the course.
-

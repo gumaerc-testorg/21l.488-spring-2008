@@ -5,6 +5,7 @@ file: /courses/21l-488-contemporary-literature-literature-development-and-human-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: notes_on_realism.pdf
 uid: 4add8dd1-0c9c-6e9d-12cf-f33305cd6115
 ---
 Lecture notes on realism, Rohinton Mistry, and Georg Lukacs.
-

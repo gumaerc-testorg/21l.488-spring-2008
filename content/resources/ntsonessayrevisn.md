@@ -5,6 +5,7 @@ file: /courses/21l-488-contemporary-literature-literature-development-and-human-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ntsonessayrevisn.pdf
 uid: 4b63fa9b-eb79-fb96-9a18-d0821426f912
 ---
 Guidelines on the revision process for writing assignments.
-

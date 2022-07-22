@@ -5,6 +5,7 @@ file: /courses/21l-488-contemporary-literature-literature-development-and-human-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: int_to_pstcolnsm.pdf
 uid: 8a4c8394-3286-0207-e861-fef46b5dacaa
 ---
 Lecture notes with an introduction to postcolonialism.
-

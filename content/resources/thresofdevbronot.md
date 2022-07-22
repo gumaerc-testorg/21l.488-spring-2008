@@ -6,6 +6,7 @@ file: /courses/21l-488-contemporary-literature-literature-development-and-human-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: thresofdevbronot.pdf
 uid: b69eb2b8-54da-7489-ed32-cb409444587b
 ---
 Lecture notes with an introduction to theories of development, Marxist approaches, modernization theories, and dependency theories.
-

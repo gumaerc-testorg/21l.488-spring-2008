@@ -5,6 +5,7 @@ file: /courses/21l-488-contemporary-literature-literature-development-and-human-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21l_488_pstlecnt.pdf
 uid: df6d09bf-65d7-e992-8a2a-58237b84fc66
 ---
 Lecture notes on modernism, characteristics of modernity, and postmodernism.
-

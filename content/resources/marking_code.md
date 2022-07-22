@@ -4,6 +4,7 @@ description: A guide to the marking codes used by the professor for writing assi
 file: /courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/c25a5698bfbfde22fbbe857c72d55389_marking_code.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: marking_code.pdf
 uid: c25a5698-bfbf-de22-fbbe-857c72d55389
 ---
 A guide to the marking codes used by the professor for writing assignments.
-

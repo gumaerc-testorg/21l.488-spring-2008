@@ -7,6 +7,7 @@ file: /courses/21l-488-contemporary-literature-literature-development-and-human-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: agdwrtltreesays.pdf
 uid: 7d0d340a-67e8-26fe-1773-b8d1c78a84f0
 ---
 Guide to writing literature essays, include discussion of the basics, the general structure, proofreading: questions to ask yourself, in-text citation, works cited list, and the grading rubric.
-
