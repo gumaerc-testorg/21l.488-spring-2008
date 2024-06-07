@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines to close reading for the course.
 file: /courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/fdd069d2a48987f36981cfded5d49945_gdtoclosereadng.pdf
+file_size: 28421
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
