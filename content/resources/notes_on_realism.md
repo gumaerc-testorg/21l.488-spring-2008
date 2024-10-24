@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on realism, Rohinton Mistry, and Georg Lukacs.
-file: /courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/4add8dd10c9c6e9d12cff33305cd6115_notes_on_realism.pdf
+file: /ol-ocw-studio-app/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/4add8dd10c9c6e9d12cff33305cd6115_notes_on_realism.pdf
 file_size: 26440
 file_type: application/pdf
 learning_resource_types:
