@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes with a brief introduction to the World Bank and the International
   Monetary Fund (IMF).
-file: /courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/f3d4c102b5a47603c3cbd5dbef49de4c_intowrldbankimf.pdf
+file: /ol-ocw-studio-app/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/f3d4c102b5a47603c3cbd5dbef49de4c_intowrldbankimf.pdf
 file_size: 50218
 file_type: application/pdf
 learning_resource_types:
