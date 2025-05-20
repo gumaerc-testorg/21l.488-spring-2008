@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines for writing the first essay assignment for the course.
-file: /ol-ocw-studio-app/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/0d1255d47288d4b5d3d0654a035281fd_essay_1.pdf
+file: /courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/0d1255d47288d4b5d3d0654a035281fd_essay_1.pdf
 file_size: 20744
 file_type: application/pdf
 learning_resource_types:

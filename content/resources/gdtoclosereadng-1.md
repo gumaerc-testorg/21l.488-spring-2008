@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines to close reading for the course.
-file: /ol-ocw-studio-app/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/1ee3c3a3b0402e8b0423013157e6e3e1_gdtoclosereadng.pdf
+file: /courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/1ee3c3a3b0402e8b0423013157e6e3e1_gdtoclosereadng.pdf
 file_size: 28421
 file_type: application/pdf
 learning_resource_types:
