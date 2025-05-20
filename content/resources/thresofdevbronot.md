@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes with an introduction to theories of development, Marxist
   approaches, modernization theories, and dependency theories.
-file: /ol-ocw-studio-app/courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/b69eb2b854da7489ed32cb409444587b_thresofdevbronot.pdf
+file: /courses/21l-488-contemporary-literature-literature-development-and-human-rights-spring-2008/b69eb2b854da7489ed32cb409444587b_thresofdevbronot.pdf
 file_size: 25083
 file_type: application/pdf
 learning_resource_types:
